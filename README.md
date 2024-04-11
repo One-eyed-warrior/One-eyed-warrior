@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on Deep Learning Techniques<br><br>Gonna start Fullstack soon<br><br>I know a fair bit of Salesforce<br>
+Currently Working on Deep Learning Techniques and Studying Transformers<br><br>Gonna start Fullstack soon<br><br>I know a fair bit of Salesforce<br>
 
 
 # 💻 Tech Stack:
