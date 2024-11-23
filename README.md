@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently Working on Diffusion Models, Django, transitioning to Pytorch<br><br>Gonna start Fullstack soon<br><br>I know a fair bit of Salesforce<br>
+Currently Working on Diffusion Models, Django, transitioning to Pytorch<br><br>I know a fair bit of Salesforce<br>
 
 
 # 💻 Tech Stack:
